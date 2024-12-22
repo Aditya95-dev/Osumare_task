@@ -16,7 +16,7 @@ const Peace_Of_Mind = () => {
 
         </h3>
         <button
-           className="btn btn-primary fw-bold w-50 btn-lg"
+           className="btn btn-primary fw-bold w-50 btn-lg mb-3"
            style={{
              borderRadius: "50px",
            }}
